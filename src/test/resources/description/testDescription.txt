@@ -1,0 +1,9 @@
+1: Al sistema se le ingresará la hora 12 y se espera que el sistema devuelva como respuesta "afternoon"
+
+2: Al sistema se le ingresará la hora 26 y se espera que el sistema devuelva como respuesta "Invalid hour"
+
+3: Al sistema se le ingresará la hora 3 y se espera que el sistema devuelva como respuesta "Night"
+
+4: Al sistema se le ingresará la hora 8 y se espera que el sistema devuelva como respuesta "Invalid hour"
+
+4: Al sistema se le ingresará la hora 19 y se espera que el sistema devuelva como respuesta "Evening"
